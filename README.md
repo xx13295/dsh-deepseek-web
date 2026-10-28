@@ -230,11 +230,5 @@ RELEASING.md         维护者发布流程
 如果这个插件帮你省下了时间，欢迎通过微信扫码支持作者，鼓励后续维护与功能改进。
 金额随心，感谢每一份支持！点亮 Star、分享项目和反馈问题，同样是很好的支持方式。
 
-<p align="center">
-  <a href="docs/assets/wechat-sponsor.jpg">
-    <img src="docs/assets/wechat-sponsor.jpg" alt="微信扫码赞助支持作者小汽车" width="320">
-  </a>
-</p>
-<p align="center">使用微信扫一扫；手机访问时可点击图片查看原图，保存后在微信中识别二维码。</p>
 
 项目按 [MIT License](LICENSE) 开源。
